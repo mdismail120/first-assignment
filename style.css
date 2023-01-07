@@ -1,0 +1,179 @@
+* {
+  margin: 0%;
+  font-family: "Open Sans", sans-serif;
+}
+
+.Banner {
+  background-size: cover;
+  background-image: url("images/banner/banner1.png");
+  background-position: center;
+  height: 1000px;
+  text-align: right;
+}
+
+.parent {
+  display: flex;
+}
+
+.believe {
+  font-size: 65px;
+  font-weight: 700px;
+  margin-bottom: 45px;
+  padding-top: 218px;
+}
+.b-description {
+  padding-top: 24px;
+  padding-bottom: 32px;
+  font-size: 22px;
+}
+.width {
+  width: 50%;
+  padding: 80px;
+  margin-right: 150px;
+}
+.contact {
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: orangered;
+  padding: 20px;
+}
+
+/* new section  */
+
+.main {
+  width: 1140px;
+  margin: 0 auto;
+}
+.baba {
+  display: flex;
+  gap: 50px;
+  margin-top: 131px;
+}
+.failure {
+  margin-top: 100px;
+  margin-bottom: 20px;
+  font-size: 65px;
+}
+
+.fail-describe {
+  font-size: 22px;
+}
+
+/* list  */
+
+.list ul li {
+  margin-top: 20px;
+}
+
+/* 2nd section  */
+
+.plans {
+  text-align: center;
+  padding-top: 130px;
+  font-size: 60px;
+}
+
+/* i want  */
+
+.i-want {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 56px;
+}
+.title {
+  font-size: 30px;
+}
+.title-desc {
+  color: #737272;
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 136px;
+}
+
+/* 3rd section  */
+
+.ghori {
+  padding: 80px;
+  background-image: linear-gradient(
+      to right,
+      rgba(255, 68, 0, 0.856),
+      rgba(255, 68, 0, 0)
+    ),
+    url("images/watch.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.call {
+  color: rgb(255, 69, 0);
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 21px;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.advise {
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+}
+.time {
+  margin-bottom: 130px;
+}
+
+/* footer styles */
+.baba-div {
+  display: flex;
+  width: 1140px;
+  margin: 0 auto;
+  background-color: black;
+  justify-content: space-between;
+}
+.future {
+  font-size: 50px;
+  font-weight: 700;
+  color: white;
+  margin-top: 130px;
+  margin-bottom: 16px;
+}
+.future-des {
+  color: white;
+  margin-bottom: 15px;
+}
+.background {
+  background-color: black;
+}
+.margin {
+  margin-top: 130px;
+  padding-right: 150px;
+}
+.subscribe {
+  color: rgb(255, 69, 0);
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 18px;
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.right {
+  color: white;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.email {
+  color: white;
+  background-color: black;
+  padding-right: 25px;
+  border: solid rgb(193, 192, 192);
+  border-width: thin;
+}
